@@ -1,0 +1,70 @@
+Whitney Bullock, Sina Odejinmi, Jordan Sharples
+IS-6813 Business Problem Statement
+January 2026 
+MasterControl: Manufacturing Solutions (Mx) Conversion Rate 
+Increase
+Business Problem
+MasterControl provides quality and manufacturing management software to life sciences 
+organizations, including pharmaceutical, biotechnology, and medical device 
+manufacturers. While the company’s Quality Solutions (Qx) product line has achieved a 
+strong conversion rate of 19.7%, the newer Manufacturing Solutions (Mx) product line has 
+realized a significantly lower conversion rate of 12.7%. This gap indicates that Mx is 
+underperforming relative to both internal benchmarks and business expectations.
+As MasterControl seeks to expand into new markets with Mx, the company faces a critical 
+challenge: it lacks a clear understanding of which customer segments are most likely to 
+convert for this newer solution. Without precise insight into high-potential customer profiles, 
+sales and marketing resources may be misallocated toward prospects with a low likelihood 
+of conversion, limiting revenue growth and slowing market adoption.
+Business Objectives
+The primary objective is to increase the Mx conversion rate by identifying, prioritizing, and 
+targeting customer profiles that are most likely to progress through the sales funnel. 
+Specifically, MasterControl aims to understand:
+• Which industries, manufacturing models, site functions, and company sizes are 
+best suited for Mx
+• Which job titles, seniority levels, and functional roles are most influential in driving 
+sales progression
+• Which existing Qx customers are most likely to adopt Mx as an additional solution
+Benefit of a Solution
+A data-driven approach to identifying high-potential Mx customers will enable 
+MasterControl to:
+1. Increase Mx conversion rates and sales efficiency
+2. Expand and better monetize its existing customer base
+3. Optimize sales and marketing resource allocation by prioritizing high-probability 
+leads
+4. Refine and formalize ideal customer profiles for both new and cross-sell 
+opportunities
+Whitney Bullock, Sina Odejinmi, Jordan Sharples
+IS-6813 Business Problem Statement
+January 2026 
+Success Metrics
+Project success will be measured by:
+• Improved accuracy in identifying leads that progress to later sales stages (SQL, SQO, 
+or WON)
+• Demonstrated lift in Mx lead conversion rates compared to baseline performance
+• Clear, actionable identification of customer attributes associated with higher 
+conversion likelihood
+Analytics Approach
+This project will apply predictive and interpretable analytics techniques to model customer 
+progression through the Mx sales funnel. The analysis will focus on identifying key drivers of 
+conversion and producing explainable insights that support lead scoring, customer 
+segmentation, and ideal customer profile development. Model performance will be 
+evaluated based on its ability to correctly classify high-probability conversion candidates.
+Scope and Deliverables
+In Scope:
+• Analysis of the MasterControl-provided dataset
+• Identification of high-potential Mx customer segments
+• Development of an ideal customer profile for the Mx product line
+• Insights to support lead scoring and targeting strategies
+Out of Scope:
+• External data enrichment
+• Implementation of models into production systems
+• Evaluation of non-Mx product lines beyond cross-sell likelihood
+Project Details and Timeline
+This project will be executed by Whitney Bullock, Sina Odejinmi, and Jordan Sharples;
+current University of Utah Business Analytics graduate students. 
+Key Milestones:
+1. Business problem definition Feb 01, 2026 
+2. Exploratory data analysis Feb 18, 2026 
+3. Analytical modeling and evaluation Mar 18, 2026
+4. Final presentation Apr 08, 2026
+5. Final written report Apr 15, 2026
