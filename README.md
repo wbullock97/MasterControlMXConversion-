@@ -4,7 +4,7 @@
 
 ## Jordan Sharples | Whitney Bullock | Sina Odejinmi
 
-This repository contains highlights from our MasterControl  capstone project.  Our project focused on leveraging machine learning models to solve the real-world business problem for MasterControl.  The proejct will showcase the complete workflow from understanding the business problem, to completing exploratory data analysis, building of four different predictive models, and evaluating results.  The project demonstrates business value to MasterControl, by identifying their ideal customer profile that will result in an increase in conversion rates for the MX product line.   
+This repository contains highlights from our MasterControl  capstone project.  Our project focused on leveraging machine learning models to solve the real-world business problem for MasterControl.  The project will showcase the complete workflow from understanding the business problem, to completing exploratory data analysis, building of four different predictive models, and evaluating results.  The project demonstrates business value to MasterControl, by identifying their ideal customer profile that will result in an increase in conversion rates for the MX product line.   
 
 ---
 ## Highlights 
